@@ -1,1 +1,1 @@
-Vick: python3 main.py
+Hero: python3 main.py
